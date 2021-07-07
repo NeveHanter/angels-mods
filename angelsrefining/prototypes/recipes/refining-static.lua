@@ -1090,7 +1090,7 @@ data:extend(
       enabled = false,
       ingredients = {
         {type = "fluid", name = "slag-slurry", amount = 50},
-        {type = "fluid", name = "water-purified", amount = 50},
+        {type = "fluid", name = "water-purified", amount = 80},--50
         {type = "item", name = "filter-coal", amount = 1}
       },
       results = {
@@ -1339,7 +1339,7 @@ data:extend(
       enabled = false,
       ingredients = {
         {type = "fluid", name = "crystal-slurry", amount = 50},
-        {type = "fluid", name = "water-purified", amount = 50},
+        {type = "fluid", name = "water-purified", amount = 80},--50
         {type = "item", name = "filter-coal", amount = 1}
       },
       results = {
@@ -1387,7 +1387,7 @@ data:extend(
       enabled = false,
       ingredients = {
         {type = "fluid", name = "crystal-slurry", amount = 50},
-        {type = "fluid", name = "water-mineralized", amount = 100},
+        {type = "fluid", name = "water-mineralized", amount = 180},--100
         {type = "item", name = "filter-coal", amount = 1}
       },
       results = {
